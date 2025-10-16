@@ -1,0 +1,10 @@
+fastapi==0.119.0
+uvicorn==0.37.0
+SQLAlchemy==2.0.44
+PyMySQL==1.1.2
+python-dotenv==1.1.1
+reportlab==4.4.4
+mariadb==1.1.14
+mysqlclient==2.2.7
+pydantic==2.12.2
+starlette==0.48.0
